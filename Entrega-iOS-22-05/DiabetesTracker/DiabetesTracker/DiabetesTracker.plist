@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>jejum</key>
+		<string>90</string>
+		<key>cafe</key>
+		<string>150</string>
+		<key>preAlmoco</key>
+		<string>130</string>
+		<key>posAlmoco</key>
+		<string>150</string>
+		<key>preJanta</key>
+		<string>130</string>
+		<key>posJanta</key>
+		<string>200</string>
+		<key>data</key>
+		<date>2013-05-02T00:47:07Z</date>
+	</dict>
+	<dict>
+		<key>jejum</key>
+		<string>100</string>
+		<key>cafe</key>
+		<string>200</string>
+		<key>preAlmoco</key>
+		<string>130</string>
+		<key>posAlmoco</key>
+		<string>180</string>
+		<key>preJanta</key>
+		<string>110</string>
+		<key>posJanta</key>
+		<string>115</string>
+		<key>data</key>
+		<date>2013-05-03T00:47:12Z</date>
+	</dict>
+	<dict>
+		<key>jejum</key>
+		<string>187</string>
+		<key>cafe</key>
+		<string>143</string>
+		<key>preAlmoco</key>
+		<string>121</string>
+		<key>posAlmoco</key>
+		<string>89</string>
+		<key>preJanta</key>
+		<string>120</string>
+		<key>posJanta</key>
+		<string>110</string>
+		<key>data</key>
+		<date>2013-05-04T02:15:24Z</date>
+	</dict>
+</array>
+</plist>
